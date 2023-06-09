@@ -1,0 +1,7 @@
+C:\Users\msi\source\repos\mabani fibonachii\mabani fibonachii\obj\Debug\mabani fibonachii.csproj.AssemblyReference.cache
+C:\Users\msi\source\repos\mabani fibonachii\mabani fibonachii\obj\Debug\mabani fibonachii.csproj.CoreCompileInputs.cache
+C:\Users\msi\source\repos\mabani fibonachii\mabani fibonachii\bin\Debug\mabani fibonachii.exe.config
+C:\Users\msi\source\repos\mabani fibonachii\mabani fibonachii\bin\Debug\mabani fibonachii.exe
+C:\Users\msi\source\repos\mabani fibonachii\mabani fibonachii\bin\Debug\mabani fibonachii.pdb
+C:\Users\msi\source\repos\mabani fibonachii\mabani fibonachii\obj\Debug\mabani fibonachii.exe
+C:\Users\msi\source\repos\mabani fibonachii\mabani fibonachii\obj\Debug\mabani fibonachii.pdb
